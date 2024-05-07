@@ -1,0 +1,17 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body{
+  background-image: url('https://cdn.pixabay.com/photo/2015/07/05/10/18/tree-832079_1280.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  
+}
+
+.card {
+  background-color: rgba(100, 200, 100, 0.4);
+
+}
